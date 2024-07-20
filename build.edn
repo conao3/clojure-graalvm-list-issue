@@ -1,0 +1,3 @@
+{:lib com.github.conao3/graalvm-list-issue
+ :version "0.1.{{git/commit-count}}"
+ :main graalvm-list-issue.main}
