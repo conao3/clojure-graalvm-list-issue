@@ -1,5 +1,11 @@
 # clojure-graalvm-list-issue
 
+# Solution
+
+![](https://github.com/user-attachments/assets/20c917d7-a6b4-407e-b3d0-ac3ee4440a94)
+
+(in Clojurians Slack)
+
 # Issue
 
 ```clojure
