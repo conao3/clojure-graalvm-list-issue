@@ -50,9 +50,9 @@ The fix was discussed in the Clojurians Slack community:
 
 Tested with:
 
-- GraalVM CE 22.0.1
-- Clojure 1.11.3
-- native-image 22.0.1
+- GraalVM CE 25.4.4.1.1
+- Clojure 1.12.6
+- native-image 25.0.4.1.1
 
 ## License
 
